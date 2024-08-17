@@ -1,0 +1,4 @@
+.friends_list {
+    display:flex;
+    gap: 10px;
+}
